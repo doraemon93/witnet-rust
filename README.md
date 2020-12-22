@@ -2,12 +2,16 @@
     <h1><img src="https://raw.githubusercontent.com/witnet/witnet-rust/master/.github/header.png" alt="Witnet-rust"/></a></h1>
     <a href="https://gitter.im/witnet/witnet-rust?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="https://badges.gitter.im/witnet/witnet-rust.svg" alt="Join the chat at https://gitter.im/witnet/witnet-rust" /></a>
     <a href="https://travis-ci.com/witnet/witnet-rust"><img src="https://travis-ci.com/witnet/witnet-rust.svg?branch=master" alt="Build Status" /></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fdoraemon93%2Fwitnet-rust?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdoraemon93%2Fwitnet-rust.svg?type=shield"/></a>
     <a href="https://github.com/witnet/witnet-rust/blob/master/LICENSE"><img src="https://img.shields.io/github/license/witnet/witnet-rust.svg" alt="GPLv3 Licensed" /></a>
     <a href="https://github.com/witnet/witnet-rust/graphs/contributors"><img src="https://img.shields.io/github/contributors/witnet/witnet-rust.svg" alt="GitHub contributors" /></a>
     <a href="https://github.com/witnet/witnet-rust/commits/master"><img src="https://img.shields.io/github/last-commit/witnet/witnet-rust.svg" alt="Github last commit" /></a>
     <br/><br/>
     <p><strong>witnet-rust</strong> is an open source implementation of the Witnet Decentralized Oracle Network protocol written in Rust.</p>
 </div>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdoraemon93%2Fwitnet-rust.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdoraemon93%2Fwitnet-rust?ref=badge_large)
 
 ## Components
 __witnet-rust__ implements many different components intended to work in the Witnet ecosystem:
